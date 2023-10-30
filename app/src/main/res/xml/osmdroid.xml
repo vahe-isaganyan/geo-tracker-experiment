@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string
+        name="osmdroid_user_agent"
+        translatable="false">LocationTracker
+    </string>
+    <string
+        name="osmdroid_default_user_agent"
+        translatable="false">LocationTracker
+    </string>
+    <string
+        name="osmdroid_debug_mode"
+        translatable="false">false
+    </string>
+    <integer name="osmdroid_map-tile_downloads_per_second">10</integer>
+</resources>
